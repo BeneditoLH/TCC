@@ -1,0 +1,13 @@
+O Sistema Precisa
+
+ - Fazer cadastro de:
+ * alunos;
+ * professores;
+ * turmas;
+ * calendários;
+ * notas
+
+ - Gerar documentos:
+ * Contratos de matrícula;
+ * Documentos escolares -> Declarações, históricos e boletins
+
